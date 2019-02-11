@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultAppDomainApp", "Defa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAppDomains", "CustomAppDomains\CustomAppDomains.csproj", "{806829F0-73BA-41B5-8FC8-C79269F44572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{243E705C-E15E-4DDA-9248-3E33F71AC559}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectContextApp", "ObjectContextApp\ObjectContextApp.csproj", "{E2478FE5-3731-4DC0-B249-19E39B697AA6}"
 EndProject
 Global
@@ -31,10 +29,6 @@ Global
 		{806829F0-73BA-41B5-8FC8-C79269F44572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{806829F0-73BA-41B5-8FC8-C79269F44572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{806829F0-73BA-41B5-8FC8-C79269F44572}.Release|Any CPU.Build.0 = Release|Any CPU
-		{243E705C-E15E-4DDA-9248-3E33F71AC559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{243E705C-E15E-4DDA-9248-3E33F71AC559}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{243E705C-E15E-4DDA-9248-3E33F71AC559}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{243E705C-E15E-4DDA-9248-3E33F71AC559}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E2478FE5-3731-4DC0-B249-19E39B697AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E2478FE5-3731-4DC0-B249-19E39B697AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2478FE5-3731-4DC0-B249-19E39B697AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
